@@ -39,7 +39,7 @@ $ helm upgrade \
   collectorset-controller logicmonitor/collectorset-controller
 ```
 
-See the [configuration page](https://logicmonitor.github.io/k8s-argus/docs/configuration/) for a list of values the Collectorset Controller helm chart supports, and their
+See the [configuration page](https://pranay-lonkar.github.io/argus-docs-test/docs/configuration/) for a list of values the Collectorset Controller helm chart supports, and their
 descriptions.
 
 > Note: The Collectorset controller should be installed only once per cluster.
@@ -63,7 +63,7 @@ $ helm upgrade \
   argus logicmonitor/argus
 ```
 
-See the [configuration page](https://logicmonitor.github.io/k8s-argus/docs/configuration/) for a list of values the Argus helm chart supports, and their descriptions.
+See the [configuration page](https://pranay-lonkar.github.io/argus-docs-test/docs/configuration/) for a list of values the Argus helm chart supports, and their descriptions.
 
 > Note: Argus should be installed only once per cluster.
 
